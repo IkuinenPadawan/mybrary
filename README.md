@@ -1,1 +1,1 @@
-This is a traingin project for full-stack development.
+This is a training project for full-stack development.
